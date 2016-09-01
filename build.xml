@@ -20,5 +20,9 @@
     <target name="run">
         <java jar="build/jar/DataMiner.jar" fork="true"/>
     </target>
+    
+    <target name="test">
+    
+    </target>
 
 </project>
